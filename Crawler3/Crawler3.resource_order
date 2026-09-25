@@ -345,5 +345,6 @@
     {"name":"spr_wallturnaroundleft1Dup","order":157,"path":"sprites/spr_wallturnaroundleft1Dup/spr_wallturnaroundleft1Dup.yy",},
     {"name":"spr_wallturnaroundright1","order":30,"path":"sprites/spr_wallturnaroundright1/spr_wallturnaroundright1.yy",},
     {"name":"spr_wallturnaroundright1Dup","order":158,"path":"sprites/spr_wallturnaroundright1Dup/spr_wallturnaroundright1Dup.yy",},
+    {"name":"UI_TitleScreen","order":200,"path":"sprites/UI_TitleScreen/UI_TitleScreen.yy",},
   ],
 }

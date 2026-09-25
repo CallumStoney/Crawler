@@ -1,8 +1,8 @@
 {
-  "$GMProject":"",
+  "$GMProject":"v1",
   "%Name":"Crawler3",
   "AudioGroups":[
-    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
   "configs":{
     "children":[],
@@ -26,11 +26,14 @@
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
+  "ForcedPrefabProjectReferences":[
+    {"link":"io.gamemaker.sdfshaders-1.0.0","name":"io.gamemaker.sdfshaders-1.0.0","path":"io.gamemaker.sdfshaders-1.0.0.yyp",},
+  ],
   "IncludedFiles":[],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"2024.14.4.222",
   },
   "name":"Crawler3",
   "resources":[
@@ -370,6 +373,7 @@
     {"id":{"name":"spr_wallturnaroundleft1Dup","path":"sprites/spr_wallturnaroundleft1Dup/spr_wallturnaroundleft1Dup.yy",},},
     {"id":{"name":"spr_wallturnaroundright1","path":"sprites/spr_wallturnaroundright1/spr_wallturnaroundright1.yy",},},
     {"id":{"name":"spr_wallturnaroundright1Dup","path":"sprites/spr_wallturnaroundright1Dup/spr_wallturnaroundright1Dup.yy",},},
+    {"id":{"name":"UI_TitleScreen","path":"sprites/UI_TitleScreen/UI_TitleScreen.yy",},},
     {"id":{"name":"ts_tilesDungeon","path":"tilesets/ts_tilesDungeon/ts_tilesDungeon.yy",},},
   ],
   "resourceType":"GMProject",
