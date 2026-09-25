@@ -1,4 +1,4 @@
-last_turn_num = global.turn;
+last_turn_num = global.turn; 
 
 Move_left = false;
 Move_right = false;
